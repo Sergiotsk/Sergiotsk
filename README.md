@@ -65,12 +65,14 @@
 
 <p align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (versión estable y actualizada) -->
 <a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sergiotsk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sergiotsk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
        width="48%" 
-       alt="GitHub stats"/>
+       alt="GitHub stats for Sergiotsk"/>
 </a>
+
 
 <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats">
@@ -79,12 +81,14 @@
        alt="GitHub streak"/>
 </a>
 
-<!-- Top Languages -->
+<!-- Top Languages (Versión Estable y Verificada) -->
 <a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiotsk&theme=onedark&no-frame=tru&layout=donut&hide_border=true&langs_count=8" 
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" 
        width="48%" 
-       alt="Top languages"/>
+       alt="Top languages graph for Sergiotsk"/>
 </a>
+
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
