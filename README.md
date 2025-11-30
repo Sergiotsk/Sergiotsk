@@ -57,7 +57,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 ---
-
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> GitHub Stats
 
 <p align="center">
@@ -71,16 +70,16 @@
 
 <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Sergiotsk&theme=tokyonight&hide_border=true" 
+  <img src="https://streak-stats.demolab.com?user=Sergiotsk&theme=tokyonight&hide_border=true" 
        width="48%" 
        alt="GitHub streak"/>
 </a>
 
-<!-- Most Used Languages -->
+<!-- Top Languages (versión estable alternativa) -->
 <a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" 
        width="48%" 
-       alt="Top languages"/>
+       alt="Top languages (backup endpoint)"/>
 </a>
 
 <!-- GitHub Trophies -->
@@ -92,16 +91,6 @@
 
 </p>
 
----
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Sergiotsk&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
