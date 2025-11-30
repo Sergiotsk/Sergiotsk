@@ -22,7 +22,7 @@
 - ⚙️ I enjoy solving logic problems and optimizing code efficiency.  
 - 🌱 Working on personal projects to strengthen my coding and teamwork skills.  
 - 📫 Contact me at [![Send me Email](https://img.shields.io/static/v1?label=email&message=sergiotschernitschek@gmail.com&color=EA4335&style=flat-square)](mailto:sergiotschernitschek@gmail.com)  
-- ✨ Motto: *“Hoy no me rindo, hoy entiendo.”*  
+  
 
 ---
 
@@ -45,6 +45,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+
 
 ### ⚙️ Software & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -77,7 +81,7 @@
 
 <!-- Top Languages -->
 <a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=donut&hide_border=true&langs_count=8" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiotsk&theme=onedark&no-frame=tru&layout=donut&hide_border=true&langs_count=8" 
        width="48%" 
        alt="Top languages"/>
 </a>
