@@ -75,11 +75,11 @@
        alt="GitHub streak"/>
 </a>
 
-<!-- Top Languages (versión estable alternativa) -->
+<!-- Top Languages -->
 <a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=donut&hide_border=true&langs_count=8" 
        width="48%" 
-       alt="Top languages (backup endpoint)"/>
+       alt="Top languages"/>
 </a>
 
 <!-- GitHub Trophies -->
