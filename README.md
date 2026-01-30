@@ -63,41 +63,43 @@
 ---
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<!-- GitHub Stats (versión estable y actualizada) -->
+<!-- GitHub Stats -->
 <a href="https://github.com/Sergiotsk">
   <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sergiotsk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
-       width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=Sergiotsk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" 
+       width="49%" 
        alt="GitHub stats for Sergiotsk"/>
 </a>
 
-
 <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Sergiotsk&theme=tokyonight&hide_border=true" 
-       width="48%" 
+<a href="https://github.com/Sergiotsk">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergiotsk&theme=tokyonight&hide_border=true" 
+       width="49%" 
        alt="GitHub streak"/>
 </a>
 
-<!-- Top Languages (Versión Estable y Verificada) -->
+</div>
+
+<div align="center">
+
+<!-- Top Languages -->
 <a href="https://github.com/Sergiotsk">
   <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" 
-       width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" 
+       width="49%" 
        alt="Top languages graph for Sergiotsk"/>
 </a>
 
-
 <!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sergiotsk&theme=onedark&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" 
-       width="95%" 
+<a href="https://github.com/Sergiotsk">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sergiotsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" 
+       width="49%" 
        alt="GitHub Trophies"/>
 </a>
 
-</p>
+</div>
 
 
 ---
