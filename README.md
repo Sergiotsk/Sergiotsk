@@ -94,8 +94,8 @@
 <p align="center">
 
 <!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sergiotsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
+<a href="https://github.com/Sergiotsk">
+  <img src="https://github-profile-trophy-eight-ashen.vercel.app?username=Sergiotsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
        alt="GitHub Trophies"/>
 </a>
 
