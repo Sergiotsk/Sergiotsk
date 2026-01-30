@@ -91,15 +91,19 @@
 
 </p>
 
+<!--
+GitHub Trophies - Temporalmente desactivado
+Para reactivar cuando tu instancia de Vercel funcione, solo quita este comentario
+
 <p align="center">
 
-<!-- GitHub Trophies -->
 <a href="https://github.com/Sergiotsk">
   <img src="https://github-profile-trophy-eight-ashen.vercel.app?username=Sergiotsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
        alt="GitHub Trophies"/>
 </a>
 
 </p>
+-->
 
 
 ---
