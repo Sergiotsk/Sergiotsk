@@ -84,8 +84,8 @@
 <p align="center">
 
 <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergiotsk&theme=tokyonight&hide_border=true" 
+<a href="https://github.com/Sergiotsk">
+  <img src="https://github-readme-streak-stats-nine-chi-90.vercel.app?user=Sergiotsk&theme=tokyonight&hide_border=true" 
        alt="GitHub streak"/>
 </a>
 
