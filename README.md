@@ -21,7 +21,7 @@
 - 🧠 Learning **Data Analysis**, **Statistics**, and **Web Development**.  
 - ⚙️ I enjoy solving logic problems and optimizing code efficiency.  
 - 🌱 Working on personal projects to strengthen my coding and teamwork skills.  
-- 📫 Contact me at [![Send me Email](https://img.shields.io/static/v1?label=email&message=sergiotschernitschek@gmail.com&color=EA4335&style=flat-square)](mailto:sergiotschernitschek@gmail.com)  
+- 📫 Contact me at [![Send me Email](https://img.shields.io/static/v1?label=email&message=sergio.tschernitschek@cimaonline.com.ar&color=EA4335&style=flat-square)](mailto:sergio.tschernitschek@cimaonline.com.ar)  
   
 
 ---
