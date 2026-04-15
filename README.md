@@ -49,7 +49,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### ⚙️ Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -68,6 +69,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle Data Modeler](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=gnometerminal&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-6366F1?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
