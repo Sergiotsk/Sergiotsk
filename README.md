@@ -85,7 +85,7 @@ en cada visita al perfil (evita los límites de Vercel que tenían las stats vie
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sergiotsk/Sergiotsk/main/metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/Sergiotsk/Sergiotsk/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ---
