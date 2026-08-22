@@ -23,7 +23,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Sergiotsk
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Sin "header" (evita mostrar nombre/avatar) ni "community" (2 de 3
+          # stats en cero: sponsors/sponsoring). Queda solo lo que tiene datos reales.
+          base: activity, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
           config_output: svg
 
@@ -32,7 +34,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          # Filtra lenguajes con presencia casi nula (antes en 0%, ahora exige mínimo 1%)
+          plugin_languages_threshold: 1%
 
           # Calendario isométrico de commits (más vistoso que el streak actual)
           plugin_isocalendar: yes
