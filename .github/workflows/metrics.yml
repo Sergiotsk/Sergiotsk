@@ -41,6 +41,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Hábitos de código (horarios, días activos)
-          plugin_habits: yes
-          plugin_habits_charts_type: bars
+          # plugin_habits desactivado: bug conocido en lowlighter/metrics
+          # (TypeError al destructurar 'author' de un evento sin ese campo,
+          # source/plugins/habits/index.mjs:51). No depende de nuestra config,
+          # rompe con ciertos tipos de evento en el feed de actividad.
