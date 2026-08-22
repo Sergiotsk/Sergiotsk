@@ -95,4 +95,4 @@ en cada visita al perfil (evita los límites de Vercel que tenían las stats vie
 🧠 *"The best way to learn to code is to code — and break things in the process."*
 📘 *Tecnicatura Universitaria en Programación - UTN Haedo*
 
-_Last edited on: 22/08/2026 (v2)_
+_Last edited on: 22/08/2026 
