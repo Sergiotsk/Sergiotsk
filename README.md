@@ -13,13 +13,11 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px></picture> About me
 
 <picture>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=200 rem>
+  <img align="right" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/200w.gif" width="150">
 </picture>
 
 - 🎓 Studying **Tecnicatura Universitaria en Programación** at **UTN - Facultad Regional Haedo**.
-- 💻 Building full-stack web and desktop apps with **React**, **Next.js**, and **Electron**.
-- 🚀 I learn by building — applying new technologies in real projects as I go.
-- 🧠 Currently deepening my knowledge in **backend architecture**, **databases**, and **cloud services**.
+- 💻 Building with **TypeScript** as my main language, **Go** as a growing differentiator, and **Python** for data analysis, ML and scraping.
 - ⚙️ I work with **AI-assisted development** and **Spec-Driven Development** to ship faster while understanding deeper.
 - 📫 Contact me at [![Send me Email](https://img.shields.io/static/v1?label=email&message=sergio.tschernitschek@cimaonline.com.ar&color=EA4335&style=flat-square)](mailto:sergio.tschernitschek@cimaonline.com.ar)
 
@@ -29,11 +27,15 @@
 
 ### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 📊 Data & Automation
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -93,4 +95,4 @@ en cada visita al perfil (evita los límites de Vercel que tenían las stats vie
 🧠 *"The best way to learn to code is to code — and break things in the process."*
 📘 *Tecnicatura Universitaria en Programación - UTN Haedo*
 
-_Last edited on: 22/08/2026_
+_Last edited on: 22/08/2026 (v2)_
