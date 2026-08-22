@@ -78,51 +78,19 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> GitHub Stats
 
-<p align="center">
-
-<!-- GitHub Stats -->
-<a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sergiotsk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-       width="48%"
-       alt="GitHub stats"/>
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sergiotsk&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"
-       width="48%"
-       alt="Top languages"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<!-- GitHub Streak -->
-<a href="https://github.com/Sergiotsk">
-  <img src="https://github-readme-streak-stats-nine-chi-90.vercel.app?user=Sergiotsk&theme=tokyonight&hide_border=true"
-       alt="GitHub streak"/>
-</a>
-
-</p>
-
 <!--
-GitHub Trophies - Temporalmente desactivado
-Para reactivar cuando tu instancia de Vercel funcione, solo quita este comentario
+Generado automáticamente por GitHub Actions (.github/workflows/metrics.yml)
+via lowlighter/metrics. Se regenera solo, no depende de servicios externos
+en cada visita al perfil (evita los límites de Vercel que tenían las stats viejas).
+-->
 
 <p align="center">
-
-<a href="https://github.com/Sergiotsk">
-  <img src="https://github-profile-trophy-eight-ashen.vercel.app?username=Sergiotsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-       alt="GitHub Trophies"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/Sergiotsk/Sergiotsk/main/metrics.svg" alt="GitHub Metrics"/>
 </p>
--->
 
 ---
 
 🧠 *"The best way to learn to code is to code — and break things in the process."*
 📘 *Tecnicatura Universitaria en Programación - UTN Haedo*
 
-_Last edited on: 15/04/2026_
+_Last edited on: 22/08/2026_
