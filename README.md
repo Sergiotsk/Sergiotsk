@@ -91,8 +91,11 @@
 ### ⚙️ Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Warp Terminal](https://img.shields.io/badge/Warp_Terminal-01A4FF?style=flat-square&logo=warp&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white)
+![Scoop](https://img.shields.io/badge/Scoop-2E7D32?style=flat-square&logo=windows&logoColor=white)
 
 ### 🧩 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -105,9 +108,8 @@
 ## 📚 Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle Data Modeler](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=gnometerminal&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-6366F1?style=flat-square&logo=anthropic&logoColor=white)
@@ -116,13 +118,7 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">Recent contributions across my GitHub repositories.</p>
-
-<p align="center">
-  <a href="https://github.com/Sergiotsk?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiotsk&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=58a6ff&amp;point=3fb950&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true&amp;radius=12&amp;custom_title=My%20GitHub%20Activity" width="100%" alt="Sergio's GitHub contribution graph over the last 31 days">
-  </a>
-</p>
+<p align="center">Recent contributions, repositories and language activity across my GitHub profile.</p>
 
 ### My Contribution Snake
 
