@@ -16,6 +16,10 @@
 
 ## About Me
 
+<picture>
+  <img align="right" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/200w.gif" width="150" alt="Coding animation">
+</picture>
+
 - 🎓 Studying **Tecnicatura Universitaria en Programación** at **UTN - Facultad Regional Haedo**.
 - 💻 Building with **TypeScript** as my main language, **Go** as a growing differentiator, and **Python** for data analysis, ML and scraping.
 - ⚙️ I work with **AI-assisted development** and **Spec-Driven Development** to ship faster while understanding deeper.
