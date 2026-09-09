@@ -1,20 +1,18 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi there 👋, I'm Sergio</h1>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm Sergio</h1></summary>
-  </ul>
-</div>
+<p align="center">
+  <b>TypeScript · Go · Python</b><br>
+  Building, learning, and exploring AI-assisted development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sergiotsk?tab=repositories">Explore my projects</a> ·
+  <a href="mailto:sergio.tschernitschek@cimaonline.com.ar">Get in touch</a>
+</p>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px></picture> About me
-
-<picture>
-  <img align="right" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/200w.gif" width="150">
-</picture>
+## About Me
 
 - 🎓 Studying **Tecnicatura Universitaria en Programación** at **UTN - Facultad Regional Haedo**.
 - 💻 Building with **TypeScript** as my main language, **Go** as a growing differentiator, and **Python** for data analysis, ML and scraping.
@@ -23,7 +21,37 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Favorite Tools & Technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript"><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go&amp;theme=dark" width="48" height="48" alt="Go"><br><sub>Go</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="48" height="48" alt="Python"><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React"><br><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" height="48" alt="Next.js"><br><sub>Next.js</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="48" height="48" alt="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="48" height="48" alt="Vite"><br><sub>Vite</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron&amp;theme=dark" width="48" height="48" alt="Electron"><br><sub>Electron</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" width="48" height="48" alt="Supabase"><br><sub>Supabase</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&amp;theme=dark" width="48" height="48" alt="Firebase"><br><sub>Firebase</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&amp;theme=dark" width="48" height="48" alt="Google Cloud"><br><sub>Google Cloud</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" height="48" alt="Git"><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="GitHub"><br><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48" height="48" alt="VS Code"><br><sub>VS Code</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pnpm&amp;theme=dark" width="48" height="48" alt="pnpm"><br><sub>pnpm</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu&amp;theme=dark" width="48" height="48" alt="Ubuntu"><br><sub>Ubuntu</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Explore my full stack</b></summary>
 
 ### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -64,6 +92,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
+</details>
+
 ---
 
 ## 📚 Currently Learning
@@ -78,21 +108,30 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<!--
-Generado automáticamente por GitHub Actions (.github/workflows/metrics.yml)
-via lowlighter/metrics. Se regenera solo, no depende de servicios externos
-en cada visita al perfil (evita los límites de Vercel que tenían las stats viejas).
--->
+<p align="center">Recent contributions across my GitHub repositories.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sergiotsk/Sergiotsk/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <a href="https://github.com/Sergiotsk?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiotsk&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=58a6ff&amp;point=3fb950&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true&amp;radius=12&amp;custom_title=My%20GitHub%20Activity" width="100%" alt="Sergio's GitHub contribution graph over the last 31 days">
+  </a>
+</p>
+
+### Repositories, Languages & Contributions
+
+<!-- Generated by .github/workflows/metrics.yml using lowlighter/metrics. -->
+<p align="center">
+  <img src="./github-metrics.svg" width="480" alt="Sergio's GitHub metrics: repository statistics, most used languages, and yearly contribution calendar">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sergiotsk?tab=repositories">Explore my repositories →</a>
 </p>
 
 ---
 
-🧠 *"The best way to learn to code is to code — and break things in the process."*
-📘 *Tecnicatura Universitaria en Programación - UTN Haedo*
-
-_Last edited on: 22/08/2026 
+<p align="center">
+  <i>“The best way to learn to code is to code — and break things in the process.”</i><br>
+  <sub>Tecnicatura Universitaria en Programación · UTN Haedo</sub>
+</p>
