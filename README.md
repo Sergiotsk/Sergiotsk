@@ -31,11 +31,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript"><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript"><br><sub>TypeScript</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go&amp;theme=dark" width="48" height="48" alt="Go"><br><sub>Go</sub></td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"><br><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript"><br><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React"><br><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="48" height="48" alt="Python"><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React"><br><sub>React</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" height="48" alt="Next.js"><br><sub>Next.js</sub></td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&amp;theme=dark" width="48" height="48" alt="Google Cloud"><br><sub>Google Cloud</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" height="48" alt="Git"><br><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub"><br><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="48" height="48" alt="GitHub"><br><sub>GitHub</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="48" height="48" alt="VS Code"><br><sub>VS Code</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pnpm&amp;theme=dark" width="48" height="48" alt="pnpm"><br><sub>pnpm</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu&amp;theme=dark" width="48" height="48" alt="Ubuntu"><br><sub>Ubuntu</sub></td>
